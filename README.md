@@ -1,2 +1,2 @@
-# -CourseProject
+# Project
  Banking system program

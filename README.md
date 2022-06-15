@@ -1,2 +1,3 @@
 # BankSystem
-Qt Project
+BSUIR, 3th semester
+QT Project

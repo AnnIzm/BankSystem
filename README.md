@@ -1,2 +1,2 @@
-# Project
- Banking system program
+# BankSystem
+Qt Project
